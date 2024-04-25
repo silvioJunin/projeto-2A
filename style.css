@@ -4,7 +4,7 @@ margin: 0:padding: 0;
 body {
 font-family: 'Poppins', sans-serif:
 }
-.cabecalho
+.cabecalho{
 background-color: #424E61:
 color: white;
 display: flex;
@@ -13,7 +13,6 @@ align-items: center:
 padding: 24px 0;
 }
 .cabecalho-imagem{
-}
 width: 10%:
 }
 .cabecalho-lista-item{
